@@ -1,0 +1,42 @@
+Mô tả game bắn ruồi
+
+Máy bay có những đặc điểm sau
+- Có thể di chuyển
+Tốc độ di chuyển: _speed
+Giới hạn vùng di chuyển: 
+	Cao nhất, thấp nhất   y : -4f, 4f
+	Hai bên cho xuyên màn hình   x -9.5f, 9.5f
+- Có thể bắn, bắn trúng ruồi thì ruồi nổ và biến mất
+	fireRate: bao lâu bắn 1 phát ví dụ 0.25s
+- Va vào máy bay địch thì tự nổ, biến mất
+
+Đạn bắn: 
+- Laser, bay thẳng từ dưới lên, 
+- Bay quá chiều cao màn hình thì tự hủy. 
+- Bắn trúng địch thì địch nổ, biến mất
+
+Ruồi
+- Tự trôi dần từ trên xuống dưới, 
+- Quá trình trôi ngẫu nhiên dịch chuyển nhẹ sang một trong hai phía trái phải
+
+Phát triển cho Enemy:
+- Thêm nhiều hàng, nhiều loại máy bay địch
+- Có loại máy bay địch phải bắn nhiều lần mới nổ
+- Ngẫu nhiên có máy bay địch tách đội hình lao xuống
+- Máy bay địch hàng dưới ngẫu nhiên bắn xuống
+- Máy bay boss
+Phát triển cho Player:
+- Có item ngẫu nhiên rơi ra khi bắn trúng máy bay địch (tăng tốc di chuyển, đổi loại đạn bắn từ 1 laser thành 3 laser, shield trong 20s, có số mạng trong quá trình chơi)
+
+Ngo Hong Phuc (FPL HN)
+lm số lượng địch với tốc độ của địch tăng theo level đc k ak :v
+Có thể nhé.
+
+Vĩnh Long Nguyễn (Longnvph50331
+Để thay đổi skin của máy bay sau khi chuyển level thì làm như nào vậy ạ
+
+Lại Duy Anh P H 5 4 3 8 5
+máy bay địch thay đổi theo từng mức máu xanh vàng đỏ thì sao ạ
+Trong slider có thuộc tính màu sắc
+
+
